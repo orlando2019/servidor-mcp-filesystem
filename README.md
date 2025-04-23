@@ -46,5 +46,4 @@ npm start -- ./mi-directorio
 - TypeScript
 
 ## Autor
-
-Desarrollado por [Tu Nombre o Equipo].
+Desarrollado por Orlando Ospino H © 2025-.
